@@ -4,19 +4,17 @@
 <ul>
   <li>🤩️ Apaixonada por Programação, Animais, Música e jogos.</li>
   <li>🔮 Estou estudando Mobile com dart-flutter, porém tenho noções de Back-end e Front-end.</li>
-  <li>🚀 Evoluindo continuamente em <strong>React.js</strong> e em seu ecossistema.</li>
   <li>🇮🇹 Tenho italiano intermediário.</li>
   <li>🇺🇸 Tenho inglês intermediário.</li>
   <li>🎮 Curto jogar call of duty mobile - UID: 7238242580235223041</li>
-    <details>
-      <summary>👽 Curiosidades:</summary>
+      <summary>📍 Curiosidades:</summary>
       <ul>
-        <li>Comecei a aprender italiano de forma autoditata com um dicionário os 6 anos de idade.</li>  
-        <li>Sou médica veterinária, com especialização em animais selvagens e exóticos</li>
+        <li>🏥🩺Sou médica veterinária, com especialização em animais selvagens e exóticos</li>
       </ul>
-    </details>
   </li>
 </ul>
+
+
 ## Tecnologias que eu uso no meu dia
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaBHB)](https://github.com/LeticiaBHB/github-readme-stats)
 
