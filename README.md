@@ -1,8 +1,22 @@
 ### Olá! Eu sou a Leticia 🗺️🦎
 
 [![LinKedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-heloisa-bini-haiduk-66305b156/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leticiabini_) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/leticiaheloisabinihaiduk)
-
-Studying Flutter-Dart
+<ul>
+  <li>🤩️ Apaixonada por Programação, Animais, Música e jogos.</li>
+  <li>🔮 Estou estudando Mobile com dart-flutter, porém tenho noções de Back-end e Front-end.</li>
+  <li>🚀 Evoluindo continuamente em <strong>React.js</strong> e em seu ecossistema.</li>
+  <li>🇮🇹 Tenho italiano intermediário.</li>
+  <li>🇺🇸 Tenho inglês intermediário.</li>
+  <li>🎮 Curto jogar call of duty mobile - UID: 7238242580235223041</li>
+    <details>
+      <summary>👽 Curiosidades:</summary>
+      <ul>
+        <li>Comecei a aprender italiano de forma autoditata com um dicionário os 6 anos de idade.</li>  
+        <li>Sou médica veterinária, com especialização em animais selvagens e exóticos</li>
+      </ul>
+    </details>
+  </li>
+</ul>
 ## Tecnologias que eu uso no meu dia
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaBHB)](https://github.com/LeticiaBHB/github-readme-stats)
 
