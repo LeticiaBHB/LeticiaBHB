@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/LeticiaBHB/gvfo/blob/main/_c5eaf9f5-6976-4a75-a5a7-e2e74b8dad83.jpeg" border="2" width="260px" height="260px" alt="ave de rapina de fone de ouvido, em frente a um computador" />
 <ul>
-  <li>🤩️ Apaixonada por Programação, Animais, Música e jogos.</li>
+  <li>🤩️ Apaixonada por Ciências da vida e Programação.</li>
   <li>🔮 Estou estudando Mobile com dart-flutter, porém tenho noções de Back-end e Front-end.</li>
   <li>🇮🇹 Tenho italiano intermediário.</li>
   <li>🇺🇸 Tenho inglês intermediário.</li>
