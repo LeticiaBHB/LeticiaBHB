@@ -11,7 +11,7 @@
   <li>🎮 Curto jogar call of duty mobile - UID: 7238242580235223041</li>
       <summary>📍 Curiosidades:</summary>
       <ul>
-        <li>🏥🩺Sou médica veterinária, com especialização em animais selvagens e exóticos</li>
+        <li>🏥🩺Sou médica veterinária, possuo duas especializações uma em: animais selvagens e exóticos, e a outra especialização em vigilância sanitária</li>
       </ul>
   </li>
 </ul>
