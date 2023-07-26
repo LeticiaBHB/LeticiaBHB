@@ -15,10 +15,20 @@
       </ul>
   </li>
 </ul>
+<table style="border: 0;">
+  <tr>
+    <td>
+      <a href="https://github.com/LeticiaBHB/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaBHB" alt="Top Langs">
+      </a>
+    </td>
+    <td>
+      <div style="border-radius: 8px; overflow: hidden;">
+        <img src="https://github.com/LeticiaBHB/gifani/blob/main/animation_lkj52qgx_small.gif" alt="GIF animado" width="280" height="280">
+      </div>
+    </td>
+  </tr>
+</table>
 
 
-## Tecnologias que eu uso no meu dia
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaBHB)](https://github.com/LeticiaBHB/github-readme-stats)
-
-![GIF animado](gifani/animation_lkj52qgx_small.gif)
 
