@@ -20,3 +20,10 @@
 ## Tecnologias que eu uso no meu dia
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaBHB)](https://github.com/LeticiaBHB/github-readme-stats)
 
+##gif animado do lado direito
+<div style="text-align: right">
+  <img src="[URL_da_imagem.gif](https://app.lottiefiles.com/animation/3b52a195-f40e-4a75-88e5-c40119edb516)https://app.lottiefiles.com/animation/3b52a195-f40e-4a75-88e5-c40119edb516" alt="GIF animado">
+</div>
+
+
+
