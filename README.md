@@ -20,5 +20,5 @@
 ## Tecnologias que eu uso no meu dia
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaBHB)](https://github.com/LeticiaBHB/github-readme-stats)
 
-![GIF animado](./gvfo/gifani.gif)
+![GIF animado](gifani/animation_lkj52qgx_small.gif)
 
