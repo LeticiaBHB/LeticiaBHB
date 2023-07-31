@@ -27,6 +27,9 @@
         <img src="https://github.com/LeticiaBHB/gifani/blob/main/animation_lkj52qgx_small.gif" alt="GIF animado" width="280" height="280">
       </div>
     </td>
+    <td>
+      <img src='https://visitor-badge.laobi.icu/badge?page_id=LeticiaBHB.LeticiaBHB' alt='Visitor Count'>
+    </td>
   </tr>
 </table>
 
