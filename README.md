@@ -24,11 +24,10 @@
     </td>
     <td>
       <div style="border-radius: 8px; overflow: hidden;">
-        <img src="https://github.com/LeticiaBHB/gifani/blob/main/animation_lkj52qgx_small.gif" alt="GIF animado" width="280" height="280">
+        <img src="https://github.com/LeticiaBHB/LeticiaBHB/blob/main/animation_lkj52qgx_small.gif" alt="GIF animado" width="280" height="280">
       </div>
     </td>
   </tr>
 </table>
-
 
 
