@@ -1,17 +1,17 @@
-### Olá! Eu sou a Leticia 🗺️🦎
+### Hello! I'm Leticia 🗺️🦎
 
 [![LinKedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-heloisa-bini-haiduk-66305b156/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leticiabini_) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/leticiaheloisabinihaiduk) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LeticiaHBH.LeticiaHBH)
 
 <img align="right" src="https://github.com/LeticiaBHB/LeticiaBHB/blob/main/_c5eaf9f5-6976-4a75-a5a7-e2e74b8dad83.jpeg" border="2" width="260px" height="260px" alt="ave de rapina de fone de ouvido, em frente a um computador" />
 <ul>
-  <li>🤩️ Apaixonada por Ciências da vida e Programação.</li>
-  <li>🔮 Estou estudando Mobile com dart-flutter, porém tenho noções de Back-end e Front-end.</li>
-  <li>🇮🇹 Tenho italiano intermediário.</li>
-  <li>🇺🇸 Tenho inglês intermediário.</li>
-  <li>🎮 Curto jogar call of duty mobile - UID: 7238242580235223041</li>
-      <summary>📍 Curiosidades:</summary>
+  <li>🤩️ APassionate about Life Sciences and Programming.</li>
+  <li>🔮 I'm studying Mobile with dart-flutter, but I have notions of Back-end and Front-end..</li>
+  <li>🇮🇹  have intermediate Italian.</li>
+  <li>🇺🇸 I have intermediate English.</li>
+  <li>🎮 I like to play call of duty mobile - UID: 7238242580235223041</li>
+      <summary>📍 Curiosities:</summary>
       <ul>
-        <li>🏥🩺Sou médica veterinária, possuo duas especializações uma em: animais selvagens e exóticos, e a outra especialização em vigilância sanitária</li> 
+        <li>🏥🩺I am a veterinary doctor, I have two specializations, one in: wild and exotic animals, and the other specialization in health surveillance</li> 
       </ul>
   </li>
 </ul>
