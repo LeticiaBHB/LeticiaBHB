@@ -1,6 +1,6 @@
 ### Hello! I'm Leticia 🗺️🦎
 
-[![LinKedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-heloisa-bini-haiduk-66305b156/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leticiabini_) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/leticiaheloisabinihaiduk) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LeticiaHBH.LeticiaHBH)
+[![LinKedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-heloisa-bini-haiduk-66305b156/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leticiabini_) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/leticiaheloisabinihaiduk) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LeticiaHBH.LeticiaHBH) 
 
 <img align="right" src="https://github.com/LeticiaBHB/LeticiaBHB/blob/main/_c5eaf9f5-6976-4a75-a5a7-e2e74b8dad83.jpeg" border="2" width="260px" height="260px" alt="ave de rapina de fone de ouvido, em frente a um computador" />
 <ul>
@@ -28,11 +28,9 @@
       </div>
     </td>
     <td>
-<div style="display: flex;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 47px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 0px;" /></div>
-    </td>
-    <td>
+      <img src= "https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="280px" height="280px" alt="astronauta com uma agua viva" >
     </td>
   </tr>
 </table>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeticiaBHB&theme=2077) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeticiaBHB&theme=2077)
