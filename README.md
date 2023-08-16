@@ -6,7 +6,7 @@
 <ul>
   <li>🤩️ Passionate about Life Sciences and Programming.</li>
   <li>🔮 I'm studying Mobile, but I have notions of Back-end and Front-end.</li>
-  <li>🇮🇹  have intermediate Italian.</li>
+  <li>🇮🇹 I have intermediate Italian.</li>
   <li>🇺🇸 I have intermediate English.</li>
   <li>🎮 I like to play call of duty mobile - UID: 7238242580235223041</li>
       <summary>📍 Curiosities:</summary>
