@@ -5,13 +5,13 @@
 <img align="right" src="https://github.com/LeticiaBHB/LeticiaBHB/blob/main/_c5eaf9f5-6976-4a75-a5a7-e2e74b8dad83.jpeg" border="2" width="260px" height="260px" alt="ave de rapina de fone de ouvido, em frente a um computador" />
 <ul>
   <li>🤩️ Passionate about Life Sciences and Programming.</li>
-  <li>🔮 I'm studying Mobile, but I have notions of Back-end and Front-end.</li>
+  <li>🔮 I'm studying Mobile, but I have notions of Back-end and Front-end. </li>
   <li>🇮🇹 I have intermediate Italian.</li>
   <li>🇺🇸 I have intermediate English.</li>
-  <li>🎮 I like to play call of duty mobile - UID: 7238242580235223041</li>
+  <li>🎮 I like to play call of duty mobile - UID: 7238242580235223041 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Ninja%20Medium-Light%20Skin%20Tone.png" alt="Ninja Medium-Light Skin Tone" width="25" height="25" /> </li>
       <summary>📍 Curiosities:</summary>
       <ul>
-        <li>🏥🩺I am a veterinary doctor, I have two specializations, one in: wild and exotic animals, and the other specialization in health surveillance</li> 
+        <li>🏥🩺I am a veterinary doctor, I have two specializations, one in: wild and exotic animals, and the other specialization in health surveillance <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Bird.png" alt="Black Bird" width="25" height="25" /></li> 
       </ul>
   </li>
 </ul>
@@ -29,6 +29,8 @@
     </td>
     <td>
 <div style="display: flex;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 47px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 0px;" /></div>
+    </td>
+    <td>
     </td>
   </tr>
 </table>
