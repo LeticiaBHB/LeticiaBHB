@@ -27,6 +27,9 @@
         <img src="https://github.com/LeticiaBHB/LeticiaBHB/blob/main/animation_lkj52qgx_small.gif" alt="GIF animado" width="280" height="280">
       </div>
     </td>
+    <td>
+<div style="display: flex;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 47px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 0px;" /></div>
+    </td>
   </tr>
 </table>
 
