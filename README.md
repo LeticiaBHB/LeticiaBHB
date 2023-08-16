@@ -28,7 +28,7 @@
       </div>
     </td>
     <td>
-      <img src= "https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="280px" height="280px" alt="astronauta com uma agua viva" >
+      <img src= "https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="260px" height="260px" alt="astronauta com uma agua viva" >
     </td>
   </tr>
 </table>
