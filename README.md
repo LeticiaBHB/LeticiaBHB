@@ -5,7 +5,7 @@
 <img align="right" src="https://github.com/LeticiaBHB/LeticiaBHB/blob/main/_c5eaf9f5-6976-4a75-a5a7-e2e74b8dad83.jpeg" border="2" width="260px" height="260px" alt="ave de rapina de fone de ouvido, em frente a um computador" />
 <ul>
   <li>🤩️ Passionate about Life Sciences and Programming.</li>
-  <li>🔮 I'm studying Mobile with dart-flutter, but I have notions of Back-end and Front-end..</li>
+  <li>🔮 I'm studying Mobile, but I have notions of Back-end and Front-end.</li>
   <li>🇮🇹  have intermediate Italian.</li>
   <li>🇺🇸 I have intermediate English.</li>
   <li>🎮 I like to play call of duty mobile - UID: 7238242580235223041</li>
