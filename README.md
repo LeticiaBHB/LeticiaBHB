@@ -11,6 +11,7 @@
   <li>🎮 I like to play call of duty mobile - UID: 7238242580235223041 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Ninja%20Medium-Light%20Skin%20Tone.png" alt="Ninja Medium-Light Skin Tone" width="25" height="25" /> </li>
       <summary>📍 Curiosities:</summary>
             <ul>
+              <li> 💻 systems analysis and development student </li>
   <li>🏥🩺I am a Veterinary Doctor, I have two specializations:</li>
   <ul>
     <li>Wild Animal Veterinary Medicine<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Bird.png" alt="Black Bird" width="25" height="25" /></li>
