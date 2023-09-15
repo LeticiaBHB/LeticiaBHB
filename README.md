@@ -22,7 +22,7 @@
   <tr>
     <td>
       <a href="https://github.com/LeticiaBHB/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaBHB" alt="Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaBHB&langs_count=8&theme=radical&layout=pie" width="260" >
       </a>
     </td>
     <td>
