@@ -12,7 +12,7 @@
       <summary>📍 Curiosities:</summary>
             <ul>
               <li> 💻 Systems Analysis and Development Student </li>
-  <li>🏥🩺I am a Veterinary Doctor, I have two specializations:</li>
+  <li>🏥🩺I am a Veterinary Doctor, I have two specializations: </li>
   <ul>
     <li>Wild Animal Veterinary Medicine<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Bird.png" alt="Black Bird" width="25" height="25" /></li>
     <li>Health Surveillance and Food Quality Control</li>
