@@ -40,9 +40,6 @@
     <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeticiaBHB&theme=2077" width="700" height="200" alt="Marcador 1">
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaBHB&theme=dracula&hide_border=false&&layout=compact" width="400" height="200" alt="Marcador 2">
-    </td>
   </tr>
 </table>
 
