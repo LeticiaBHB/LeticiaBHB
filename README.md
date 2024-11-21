@@ -2,7 +2,7 @@
 
 [![LinKedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-heloisa-bini-haiduk-66305b156/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leticiabini_) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LeticiaHBH.LeticiaHBH) 
 
-<img align="right" src="https://github.com/LeticiaBHB/LeticiaBHB/blob/main/_c5eaf9f5-6976-4a75-a5a7-e2e74b8dad83.jpeg" border="2" width="260px" height="260px" alt="ave de rapina de fone de ouvido, em frente a um computador" />
+<img align="right" src="https://github.com/LeticiaBHB/LeticiaBHB/blob/main/_c5eaf9f5-6976-4a75-a5a7-e2e74b8dad83.jpg" border="2" width="260px" height="260px" alt="ave de rapina de fone de ouvido, em frente a um computador" />
 <ul>
   <li>🤩️ Passionate about Life Sciences and Programming🔮</li>
   <li>🇮🇹 I have intermediate Italian.</li>
