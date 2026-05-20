@@ -9,7 +9,7 @@
   <li>🇺🇸 I have intermediate English.</li>
       <summary>📍 Curiosities:</summary>
             <ul>
-              <li> 💻 Systems Analysis and Development Student </li>
+              <li> 💻 Systems Analysis and Development </li>
 </ul>
 <table style="border: 0;">
   <tr>
